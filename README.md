@@ -143,12 +143,9 @@ All your mood entries are stored locally in your browser's localStorage. Your da
 - Safari (latest)
 - Edge (latest)
 
-## License 📄
+🧑‍💻 Author
 
-This project is open source and available for personal use.
-
-## Contributing 🤝
-
-Feel free to fork this project and customize it to your needs!
+Developed by Abhishek Sharma
+GitHub: https://github.com/abhiliverpool20
 
 ---
