@@ -1,10 +1,13 @@
 # Mood Journal 📝
 
+🔗 **Live Demo:** https://mood-journal-react.netlify.app
+
 A beautiful, modern mood tracking application built with React. Track your emotions, discover patterns, and gain insights into your mental well-being.
 
 ## Features ✨
 
 ### Core Features
+
 - **Daily Mood Entry**: Choose from 8 different moods with emoji representations
 - **Notes & Tags**: Add detailed notes and custom tags to each entry
 - **Mood Intensity**: Rate the intensity of your mood on a scale of 1-10
@@ -15,6 +18,7 @@ A beautiful, modern mood tracking application built with React. Track your emoti
 - **Data Export**: Export all your entries as JSON
 
 ### Unique Features
+
 - 🎨 Beautiful gradient UI with glass morphism effects
 - 📊 Interactive charts using Recharts
 - 🔥 Streak tracking to motivate consistent logging
@@ -27,6 +31,7 @@ A beautiful, modern mood tracking application built with React. Track your emoti
 ## Getting Started 🚀
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
@@ -34,11 +39,13 @@ A beautiful, modern mood tracking application built with React. Track your emoti
 
 1. Clone the repository or navigate to the project directory
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -93,6 +100,7 @@ mood-journal/
 ## Usage Guide 📖
 
 ### Logging Your Mood
+
 1. Navigate to the "Journal" page
 2. Select your current mood from the 8 options
 3. Adjust the intensity slider (optional)
@@ -101,12 +109,14 @@ mood-journal/
 6. Click "Save Entry"
 
 ### Viewing History
+
 1. Go to the "History" page
 2. Click on any date in the calendar to view entries
 3. Use filters to search by mood, tag, or keyword
 4. Click on an entry to view full details
 
 ### Insights
+
 1. Visit the "Insights" page to see:
    - Your most common moods
    - Weekly mood trends
@@ -115,6 +125,7 @@ mood-journal/
    - Current streak
 
 ### Settings
+
 1. Enable/disable daily reminders
 2. Set your preferred reminder time
 3. Enable browser notifications
@@ -141,5 +152,3 @@ This project is open source and available for personal use.
 Feel free to fork this project and customize it to your needs!
 
 ---
-
-
